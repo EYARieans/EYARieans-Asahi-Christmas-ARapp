@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C9531A4C-0028-1FFB-B477-5555B4F3714A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PersonalizedMsg.cs">
+    <Files>
+      <File FileName="Assets/scripts/PersonalizedMsg.cs" Line="19" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChristmasWishesNew" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="PersonalizedMsg.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d615db0e-6505-4e78-a8e7-9824febc442d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
