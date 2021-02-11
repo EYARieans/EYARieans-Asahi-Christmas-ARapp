@@ -68,17 +68,38 @@
     <Compile Include="Assets\scripts\PersonalizedMsg.cs" />
     <None Include="Assets\StreamingAssets\Vuforia\NewChristmas1.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\AsahiChristmas.xml" />
+    <Reference Include="Unity.XR.Management">
+      <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARKit">
+      <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Subsystem.Registration">
+      <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.ARSubsystems">
+      <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARSubsystems.Editor">
+      <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="VuforiaScripts">
       <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.ARFoundation.Editor">
+      <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARFoundation">
+      <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -92,11 +113,17 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.Management.Editor">
+      <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARKit.Editor">
+      <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/lz596kj/Documents/DeeptiB/Unity/ChristmasWishesNew/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
